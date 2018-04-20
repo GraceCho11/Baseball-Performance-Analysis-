@@ -16,3 +16,8 @@ https://www.python.org/downloads/mac-osx/
 Tableau Public Download Link: 
 https://public.tableau.com/en-us/s/download
 
+# Meta
+
+Grace Cho - Circleoffifths.7@gmail.com 
+
+https://github.com/GraceCho11
